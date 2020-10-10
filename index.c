@@ -3,5 +3,6 @@ int main(){
 	printf("日韩\n");
 	printf("欧美\n");
 	printf("短视频\n");
+	printf("约饭\n");
 	return 0;
 } 
